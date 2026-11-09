@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=180&section=header&text=박정호&fontSize=48&fontColor=ffffff&desc=Backend%20Developer%20·%20Team%20Lead&descAlignY=72&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=180&section=header&text=박정호&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer%20·%20Team%20Lead&descAlignY=54&descSize=18&animation=fadeIn)
 
 <div align="center">
 
