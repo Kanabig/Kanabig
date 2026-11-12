@@ -1,13 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=180&section=header&text=박정호&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer%20·%20Team%20Lead&descAlignY=54&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=180&section=header&text=Jungho's%20Hub&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer%20·%20Team%20Lead&descAlignY=54&descSize=18&animation=fadeIn)
 
-<div align="center">
+<p align="center"><b>명세에서 출발해 이슈·리뷰·CI로 팀 프로젝트를 이끌어 본 백엔드 개발자 박정호입니다.</b></p>
 
-**명세에서 출발해 이슈·리뷰·CI로 팀 프로젝트를 이끌어 본 백엔드 개발자 박정호입니다.**
-
-<a href="mailto:parkjungho20@gmail.com"><img src="https://img.shields.io/badge/Email-parkjungho20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://app.notion.com/p/developer-info-413daa9b8ffd800d8d71fdd7619062c5"><img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-
-</div>
+<p align="center">
+  <a href="mailto:parkjungho20@gmail.com"><img src="https://img.shields.io/badge/Email-parkjungho20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://app.notion.com/p/developer-info-413daa9b8ffd800d8d71fdd7619062c5"><img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+</p>
 
 ---
 
